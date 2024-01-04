@@ -10,3 +10,9 @@ Learning
 4. [Amazon Web Services Certifications](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 5. [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 6. [Google Associate Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+
+
+## TensorFlow
+1. [Learn TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+2. [Core documentation](https://www.tensorflow.org/learn)
+3. [Mobile documentation](https://www.tensorflow.org/lite)
