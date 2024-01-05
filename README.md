@@ -16,3 +16,5 @@ Learning
 1. [Learn TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 2. [Core documentation](https://www.tensorflow.org/learn)
 3. [Mobile documentation](https://www.tensorflow.org/lite)
+
+*sin importar lo que cueste*
