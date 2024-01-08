@@ -7,10 +7,11 @@ Learning GO
 2. [Everyday GO](https://openfaas.gumroad.com/l/everyday-golang?layout=profile)
 3. Self Hosting
 4. [GO documentation](https://go.dev/doc/tutorial/create-module)[a must]
+5. [Beginner projects to work on] (https://medium.com/javarevisited/10-projects-you-can-build-to-learn-golang-in-2023-ca48a8de8714)
 
-5. [Amazon Web Services Certifications](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-6. [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-7. [Google Associate Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+6. [Amazon Web Services Certifications](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+7. [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+8. [Google Associate Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 
 
 ## TensorFlow
