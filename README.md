@@ -5,9 +5,9 @@ Just a walk with me through a transition
 Learning GO
 1. [Learn GO](https://go.dev/tour/welcome/1)
 2. [Everyday GO](https://openfaas.gumroad.com/l/everyday-golang?layout=profile)
-3. Self Hosting
+3. [Self Hosting]
 4. [GO documentation](https://go.dev/doc/tutorial/create-module)[a must]
-5. [Beginner projects to work on] (https://medium.com/javarevisited/10-projects-you-can-build-to-learn-golang-in-2023-ca48a8de8714)
+5. [Beginner projects to work on](https://medium.com/javarevisited/10-projects-you-can-build-to-learn-golang-in-2023-ca48a8de8714)
 6. [Write GO like a Pro](https://levelup.gitconnected.com/write-go-like-a-senior-engineer-eee7f03a1883)
 7. [syntax](https://www.w3schools.com/go/go_constants.php)
 
