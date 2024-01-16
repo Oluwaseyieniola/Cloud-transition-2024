@@ -11,10 +11,11 @@ Learning GO
 6. [Write GO like a Pro](https://levelup.gitconnected.com/write-go-like-a-senior-engineer-eee7f03a1883)
 7. [syntax](https://www.w3schools.com/go/go_constants.php)
 8. [awesom go](https://github.com/avelino/awesome-go)
+9. [some DOS and UNIX commands](https://static-bcrf.biochem.wisc.edu/tutorials/unix/basic_unix/dos_and_unix_commands.html)
 
-9. [Amazon Web Services Certifications](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-10. [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-11. [Google Associate Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+10. [Amazon Web Services Certifications](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+11. [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+12. [Google Associate Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 
 
 ## TensorFlow
